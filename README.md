@@ -27,14 +27,14 @@ Designed as a production-ready MVP, the application focuses on delivering a seam
 > Upload your screenshots inside a folder named **screenshots** in your GitHub repository.
 
 ## 🏠 Home Page
-![](screenshots/home.png) ## 📊 Health Dashboard ![](screenshots/dashboard.png)
+![](home.png) ## 📊 Health Dashboard ![](health.png)
 
 ## 🤖 AI Symptoms Checker
 
-![](screenshots/symptom-checker.png) ## 📅 Appointment Booking  ![](screenshots/appointments.png) |
+![](symptom.png) ## 📅 Appointment Booking  ![](appointments.png) |
 
 ## 💊 Medication Tracker
- ![](screenshots/medications.png) |
+ ![](medications.png) |
 
 # ✨ Features
 
