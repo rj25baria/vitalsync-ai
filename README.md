@@ -24,8 +24,6 @@ Designed as a production-ready MVP, the application focuses on delivering a seam
 
 # 📸 Project Screenshots
 
-> Upload your screenshots inside a folder named **screenshots** in your GitHub repository.
-
 ## 🏠 Home Page
 ![](home.png) ## 📊 Health Dashboard ![](health.png)
 
